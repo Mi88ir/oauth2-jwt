@@ -1,3 +1,5 @@
+![Decus.network](https://i.ibb.co/ctmk6SG/decus-cover.jpg)
+
 ## Repo Details
 
 This repository is a good template for anyone looking to have a OAuth2 and JWT implemented for Express (REST) app.
