@@ -1,0 +1,26 @@
+.env
+id_rsa_priv.pem
+package-lock.json
+
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules/
+package-lock.json
+*.log
+*.gz
+
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
